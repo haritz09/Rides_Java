@@ -1,0 +1,5 @@
+gui.ParadasIntermediasGUI#instance-init#
+javax.swing.JLabel#<init>(Ljava/lang/String;)V
+javax.swing.JLabel#instance-init#
+javax.swing.JScrollPane#instance-init#
+javax.swing.JScrollPane#<init>()V

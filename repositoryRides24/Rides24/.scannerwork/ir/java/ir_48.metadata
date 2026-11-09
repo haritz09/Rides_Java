@@ -1,0 +1,4 @@
+domain.viajero#equals(Ljava/lang/Object;)Z
+java.lang.Object#getClass()Ljava/lang/Class;
+java.lang.Double#compare(DD)I
+java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z

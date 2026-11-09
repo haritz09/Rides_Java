@@ -1,0 +1,3 @@
+domain.Ride#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;IDLdomain/Driver;)V
+==
+<init> java.lang.Object#<init>()V

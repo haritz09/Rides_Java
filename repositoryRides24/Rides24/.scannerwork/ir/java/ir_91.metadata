@@ -1,0 +1,6 @@
+domain.Viajecompuesto#<init>(Ldomain/Ride;Ldomain/Ride;)V
+java.util.LinkedList#<init>()V
+java.util.LinkedList#instance-init#
+==
+<init> java.lang.Object#<init>()V
+add java.util.LinkedList#add(Ljava/lang/Object;)Z

@@ -1,0 +1,40 @@
+
+Fdomain.IntegerAdapter#unmarshal(Ljava/lang/String;)Ljava/lang/Integer;^
+TC:/Users/user/git/repositoryRides24/Rides24/src/main/java/domain/IntegerAdapter.java ("startingBlock*€
+startingBlock (#ˆ
+…
+ (
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+sjava.lang.StringU
+S
+! ("
+sjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%1*
+1*Ú
+1	 	(±
+®
+	 	("	
+%0int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*1
+
+__unknown_file ("
+java.lang.Integer*3
+
+__unknown_file (
+
+sjava.lang.String"
+	 	(#
+	
+%0int:!
+ ("
+sjava.lang.StringB
+domain.IntegerAdapterH

@@ -1,0 +1,29 @@
+gui.ReseñasUsuarioGUI#<init>(Ldomain/viajero;)V
+javax.swing.JPanel#<init>()V
+javax.swing.JButton#<init>(Ljava/lang/String;)V
+javax.swing.border.EmptyBorder#instance-init#
+javax.swing.JRadioButton#instance-init#
+javax.swing.JPanel#instance-init#
+javax.swing.border.EmptyBorder#<init>(IIII)V
+javax.swing.JLabel#<init>(Ljava/lang/String;)V
+javax.swing.JTextField#instance-init#
+javax.swing.JTextField#<init>()V
+javax.swing.JLabel#instance-init#
+javax.swing.JComboBox#instance-init#
+javax.swing.JComboBox#<init>()V
+javax.swing.JButton#instance-init#
+javax.swing.JRadioButton#<init>(Ljava/lang/String;)V
+==
+setColumns javax.swing.JTextField#setColumns(I)V
+add javax.swing.ButtonGroup#add(Ljavax/swing/AbstractButton;)V
+get_database businessLogic.BLFacade#get_database()LdataAccess/DataAccess;
+setBounds java.awt.Component#setBounds(IIII)V
+setDefaultCloseOperation javax.swing.JFrame#setDefaultCloseOperation(I)V
+setBorder javax.swing.JComponent#setBorder(Ljavax/swing/border/Border;)V
+setBounds java.awt.Window#setBounds(IIII)V
+add java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;
+addItem javax.swing.JComboBox#addItem(Ljava/lang/Object;)V
+setContentPane javax.swing.JFrame#setContentPane(Ljava/awt/Container;)V
+setLayout java.awt.Container#setLayout(Ljava/awt/LayoutManager;)V
+addActionListener javax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V
+open dataAccess.DataAccess#open()V

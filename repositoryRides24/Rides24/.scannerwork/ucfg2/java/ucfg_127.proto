@@ -1,0 +1,200 @@
+
+[domain.Driver#removeRide(Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;)Ldomain/Ride;X
+LC:/Users/user/git/repositoryRides24/Rides24/src/main/java/domain/Driver.javaä ä("10*¶
+2
+ï ï(e
+c
+
+ï ï(
+%11java.util.List"__id*8
+
+__unknown_file (*
+domain.Driver"
+ridesã
+à
+
+ï ï(
+%12domain.Ride"__arrayRemove*3
+
+__unknown_file (
+
+%11java.util.List*"
+
+__unknown_file (
+""" 
+
+ñ ñ(
+
+rdomain.Ride*¶
+5
+êe ê(iàÖ
+ê~ ê(â
+%9java.util.Date"%domain.Ride#getDate()Ljava/util/Date;*.
+
+__unknown_file (
+
+rdomain.Ride2	getDate()˛
+˚
+êe ê(è
+%10boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*2
+
+__unknown_file (
+
+%9java.util.Date*4
+
+__unknown_file (
+
+datejava.util.Date*	
+2
+8
+1*®
+6
+ê9 ê(=áÑ
+
+êR ê([
+%7java.lang.String"%domain.Ride#getTo()Ljava/lang/String;*.
+
+__unknown_file (
+
+rdomain.Ride2getTo()˛
+˚
+
+ê9 ê(_
+%8boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*4
+
+__unknown_file (
+
+%7java.lang.String*4
+
+__unknown_file (
+
+tojava.lang.String*
+2
+5
+8
+1*ˆ
+7
+è è(
+d
+b
+
+è è(
+
+%3java.util.List"__id*8
+
+__unknown_file (*
+domain.Driver"
+ridesÜ
+É
+
+è è(
+%4domain.Ride"
+__arrayGet*2
+
+__unknown_file (
+
+%3java.util.List*"
+
+__unknown_file (
+""W
+U
+
+è è(
+rdomain.Ride"__id*/
+
+__unknown_file (
+
+%4domain.Rideãà
+
+ê" ê(-
+%5java.lang.String"'domain.Ride#getFrom()Ljava/lang/String;*.
+
+__unknown_file (
+
+rdomain.Ride2	getFrom()Ä
+˝
+
+ê	 ê(3
+%6boolean"?java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z*1
+
+__unknown_file ("
+java.util.Objects*4
+
+__unknown_file (
+
+%5java.lang.String*6
+
+__unknown_file (
+
+fromjava.lang.String*
+2
+6
+8
+1*å
+8
+é é(d
+b
+
+é é(
+%0java.util.List"__id*8
+
+__unknown_file (*
+domain.Driver"
+ridesmk
+
+é é(&	
+%1int"java.util.List#size()I*2
+
+__unknown_file (
+
+%0java.util.List2size()ö
+ó
+
+é é(&
+%2boolean"	__compare*"
+
+__unknown_file (
+<=*"
+
+__unknown_file (
+""*'
+
+__unknown_file (
+	
+%1int*	
+2
+7
+1*g
+10
+ã ã(J
+H
+
+ç ç(
+rdomain.Ride"__id*"
+
+__unknown_file (
+""*	
+2
+8
+1*%
+1
+ó ó("
+
+ó	 ó(
+"":&
+
+ä ä($
+fromjava.lang.String:$
+
+ä% ä(/
+tojava.lang.String:$
+
+ä0 ä(9
+datejava.util.DateB
+domain.DriverH

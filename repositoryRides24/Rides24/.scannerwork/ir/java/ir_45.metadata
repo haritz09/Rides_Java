@@ -1,0 +1,4 @@
+domain.viajero#ReservarViaje(Ljava/lang/Integer;Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;IDLdomain/Driver;Ldomain/viajero;I)LRideSolicitado;
+null
+==
+add java.util.List#add(Ljava/lang/Object;)Z

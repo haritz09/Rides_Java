@@ -1,0 +1,4 @@
+domain.Viajecompuesto#<init>(Ljava/lang/Integer;Ldomain/Ride;Ldomain/Ride;)V
+==
+<init> java.lang.Object#<init>()V
+add java.util.LinkedList#add(Ljava/lang/Object;)Z

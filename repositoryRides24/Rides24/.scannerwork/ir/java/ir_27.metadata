@@ -1,0 +1,6 @@
+dataAccess.DataAccess#updateRide(IF)F
+==
+println java.io.PrintStream#println(Ljava/lang/Object;)V
+getnPlaces domain.Ride#getnPlaces()F
+setBetMinimum domain.Ride#setBetMinimum(F)V
+getRidebyRideNumber dataAccess.DataAccess#getRidebyRideNumber(I)Ldomain/Ride;

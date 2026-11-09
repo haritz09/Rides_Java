@@ -1,0 +1,9 @@
+domain.Driver#removeRide(Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;)Ldomain/Ride;
+java.util.Objects#equals(Ljava/lang/Object;Ljava/lang/Object;)Z
+==
+get java.util.List#get(I)Ljava/lang/Object;
+remove java.util.List#remove(I)Ljava/lang/Object;
+getDate domain.Ride#getDate()Ljava/util/Date;
+getFrom domain.Ride#getFrom()Ljava/lang/String;
+getTo domain.Ride#getTo()Ljava/lang/String;
+size java.util.List#size()I

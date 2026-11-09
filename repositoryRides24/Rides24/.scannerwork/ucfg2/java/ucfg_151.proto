@@ -1,0 +1,124 @@
+
+(domain.Ride#toString()Ljava/lang/String;V
+JC:/Users/user/git/repositoryRides24/Rides24/src/main/java/domain/Ride.java× ×("1*“
+
+1
+Ø	 Ø(j
+h
+
+Ø	 Ø(
+%0java.lang.Integer"__id*;
+
+__unknown_file (*
+domain.Ride"
+
+rideNumbern
+l
+
+Ø	 Ø(
+%1java.lang.String"__concat*'
+
+Ø	 Ø(
+
+%0java.lang.Integer*
+
+Ø Ø(
+;m
+k
+
+Ø	 Ø(
+%2java.lang.String"__concat*&
+
+Ø	 Ø(
+
+%1java.lang.String*
+
+Ø Ø(
+;c
+a
+
+Ø Ø( 
+%3java.lang.String"__id*5
+
+__unknown_file (*
+domain.Ride"
+from€
+~
+
+Ø	 Ø( 
+%4java.lang.String"__concat*&
+
+Ø	 Ø(
+
+%2java.lang.String*&
+
+Ø Ø( 
+
+%3java.lang.Stringm
+k
+
+Ø	 Ø($
+%5java.lang.String"__concat*&
+
+Ø	 Ø( 
+
+%4java.lang.String*
+
+Ø! Ø($
+;a
+_
+
+Ø% Ø('
+%6java.lang.String"__id*3
+
+__unknown_file (*
+domain.Ride"
+to€
+~
+
+Ø	 Ø('
+%7java.lang.String"__concat*&
+
+Ø	 Ø($
+
+%5java.lang.String*&
+
+Ø% Ø('
+
+%6java.lang.Stringm
+k
+
+Ø	 Ø(+
+%8java.lang.String"__concat*&
+
+Ø	 Ø('
+
+%7java.lang.String*
+
+Ø( Ø(+
+;a
+_
+
+Ø, Ø(0
+%9java.util.Date"__id*5
+
+__unknown_file (*
+domain.Ride"
+date
+}
+
+Ø	 Ø(0
+%10java.lang.String"__concat*&
+
+Ø	 Ø(+
+
+%8java.lang.String*$
+
+Ø, Ø(0
+
+%9java.util.Date"'
+
+Ø Ø(1
+
+%10java.lang.StringB
+domain.RideH

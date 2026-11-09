@@ -1,0 +1,3 @@
+dataAccess.DataAccess#storeFactura(Ldomain/Factura;)V
+==
+println java.io.PrintStream#println(Ljava/lang/String;)V

@@ -1,0 +1,4 @@
+domain.Driver#añadirviajecompuesto(Ldomain/Ride;Ldomain/Viajecompuesto;)Ldomain/Viajecompuesto;
+==
+add java.util.ArrayList#add(Ljava/lang/Object;)Z
+add java.util.List#add(Ljava/lang/Object;)Z

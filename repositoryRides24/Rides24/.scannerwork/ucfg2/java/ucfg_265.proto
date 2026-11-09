@@ -1,0 +1,124 @@
+
+ÖbusinessLogic.BLFacadeImplementation#getThisMonthDatesWithRides(Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;)Ljava/util/List;m
+cC:/Users/user/git/repositoryRides24/Rides24/src/main/java/businessLogic/BLFacadeImplementation.javav v(-"startingBlock*¿	
+startingBlockv- v(Pã
+à
+t t(
+
+%0"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*6
+
+__unknown_file (
+
+fromjava.lang.StringÅ
+
+u u(
+%1"
+__annotate*)
+
+__unknown_file (
+	WebMethod*6
+
+__unknown_file (
+
+fromjava.lang.String|
+z
+v5 v(9
+fromjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%0*"
+
+__unknown_file (
+
+%1â
+Ü
+t t(
+
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*4
+
+__unknown_file (
+
+tojava.lang.String
+}
+u u(
+%3"
+__annotate*)
+
+__unknown_file (
+	WebMethod*4
+
+__unknown_file (
+
+tojava.lang.Stringz
+x
+vB v(D
+tojava.lang.String"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3â
+Ü
+t t(
+
+%4"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*4
+
+__unknown_file (
+
+datejava.util.Date
+}
+u u(
+%5"
+__annotate*)
+
+__unknown_file (
+	WebMethod*4
+
+__unknown_file (
+
+datejava.util.Datez
+x
+vK v(O
+datejava.util.Date"__annotation*"
+
+__unknown_file (
+
+%4*"
+
+__unknown_file (
+
+%5*
+1*Ö
+1w w(O
+M
+x x(I
+datesjava.util.List"__id*"
+
+__unknown_file (
+"""%
+z z(
+
+datesjava.util.List:$
+v. v(:
+fromjava.lang.String:"
+v; v(E
+tojava.lang.String:"
+vF v(O
+datejava.util.DateB(&
+$businessLogic.BLFacadeImplementationH

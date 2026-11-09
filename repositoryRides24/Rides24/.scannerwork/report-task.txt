@@ -1,0 +1,7 @@
+organization=haritz
+projectKey=haritz_proyectois
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.56641
+dashboardUrl=https://sonarcloud.io/dashboard?id=haritz_proyectois
+ceTaskId=AZH8cBKfJ534et0qPra2
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZH8cBKfJ534et0qPra2
